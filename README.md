@@ -14,6 +14,31 @@
 * 运行前，请务必先自行完善 .env文件中的参数。包括但不限于各类 API key\Secret Key等。
 * 如果有疑问, 欢迎 email: 798800165@qq.com
 
+## .env文件必要参数 list
+* URL_HOT=
+* URL_INVITED=
+* URL_RECOMMEND=
+
+* AIRTABLE_TOKEN=
+* AIRTABLE_DB_ID=
+* AIRTABLE_TABLE_ID=
+
+* GOOGLE_URL=
+* SERPER_API_KEY=
+* SERPER_HEADERS= X-API-KEY=, Content-Type=
+
+* OPENAI_API_KEY=
+
+* BD_ACCESS_TOKEN=
+* BD_SESSION_KEY=
+
+* ALI_API_KEY=
+
+* GOOGLE_BARD_TOKEN=
+* 1PSID=
+* 1PSIDTS=
+* 1PSIDCC=
+
 
 ## 视频讲解
 * B站       https://www.bilibili.com/video/BV1aj411y7Si/
