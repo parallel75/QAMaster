@@ -6,4 +6,7 @@
 * 阿里  通义千问
 * Google Bard
 
-  
+
+## 视频讲解
+* B站       https://www.bilibili.com/video/BV1aj411y7Si/
+* youtube   https://youtu.be/HFqkdLqtB40
