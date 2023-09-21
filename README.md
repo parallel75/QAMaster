@@ -7,8 +7,8 @@
 * Google Bard
 
 ## 使用前
-1.运行前 请务必先 自行完善 .env文件中的参数  包括但不限于 各类 API key\Secret Key 等
-2.如果有疑问 欢迎 email 798800165@qq.com
+1.运行前，请务必先自行完善 .env文件中的参数。包括但不限于各类 API key\Secret Key等
+2.如果有疑问, 欢迎 email: 798800165@qq.com
 
 
 ## 视频讲解
